@@ -9,6 +9,6 @@ pandas==0.24.2
 request==2019.4.13
 requests==2.21.0
 Tornado==1.0.0
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 Flask-Cors==3.0.8
 pygame==1.9.6
